@@ -1,6 +1,6 @@
 {
-  "name": "FizzxyDev/BaileysV2",
-  "version": "8.4.0",
+  "name": "kkeizzah/baileys",
+  "version": "0.0.1",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/FizzxyDev/BaileysV2",
+  "homepage": "https://github.com/kkeizzah/baileys",
   "repository": {
-    "url": "git@github.com:FizzxyDev/BaileysV2.git"
+    "url": "git@github.com:kkeizzah/baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "keithkeizzah",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
